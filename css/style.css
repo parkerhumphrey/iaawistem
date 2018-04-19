@@ -3,17 +3,15 @@ h1{
   font-family: "Open Sans", bold, sans-serif;
 }
 
+.mainhead{
+  background-image: url("../images/header-2.png");
+  padding-bottom:90px;
+  background-size:100%;
+  background-repeat: no-repeat;
+}
+
 .all_my_headers{
   text-decoration: underline;
-}
-
-.navsize{
-  font-size: xx-large
-}
-
-.navbox {
-    border: 4px solid black;
-    margin: 25px;
 }
 
 p{
