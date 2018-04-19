@@ -1,0 +1,20 @@
+h1{
+
+  font-family: "Courier New", bold, sans-serif;
+}
+
+.all_my_headers{
+  text-decoration: underline;
+}
+
+p{
+  font-family: "Courier New", Courier, monospace;
+}
+
+.page-title{
+  text-align: center;
+}
+
+.page-image{
+  text-align: center;
+}
