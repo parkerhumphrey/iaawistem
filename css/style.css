@@ -5,13 +5,22 @@ h1{
 
 .mainhead{
   background-image: url("../images/background.png");
-  min-height: 150px;
-  background-size:100%;
+  background-color: #005DAA;
   background-repeat: no-repeat;
+  min-height: 50px;
+  background-size: contain, cover;
 }
 
 .all_my_headers{
   text-decoration: underline;
+}
+
+.social{
+  padding-top:50px;
+}
+
+.logo-block{
+  text-align: right;
 }
 
 p{
