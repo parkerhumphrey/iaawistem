@@ -4,8 +4,8 @@ h1{
 }
 
 .mainhead{
-  background-image: url("../images/header-2.png");
-  padding-bottom:90px;
+  background-image: url("../images/background.png");
+  min-height: 150px;
   background-size:100%;
   background-repeat: no-repeat;
 }
@@ -28,4 +28,8 @@ p{
 
 .page-image{
   text-align: center;
+}
+
+.text-color{
+  text-color: black;
 }
