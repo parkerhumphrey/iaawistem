@@ -69,3 +69,83 @@ padding-left: 150px;
 .text-color{
  text-color: black;
 }
+
+.blogheader{
+ font-size: 25px;
+}
+
+.blogperson{
+ font-size: 18px;
+}
+
+.container-fluid{
+ padding-left:120px;
+}
+
+.blogtext{
+ background-color:#F8F9FA;
+}
+
+.blogspace{
+ padding-left: 20px;
+ padding-right: 20px;
+}
+
+.special{
+ padding-top: 20px;
+}
+
+.blogpadding{
+ padding-bottom: 50px;
+}
+
+.blogbutton{
+ background-color: #0057AF;
+ font size: 10px;
+ color: white;
+ padding: 10px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ margin: 4px 2px;
+ cursor: pointer;
+ float: right;
+}
+
+.groupimages{
+ float: left;
+}
+
+.grouptextbox{
+ background-color: #F8F9FA;
+ height: 150px;
+ padding-top: 10px;
+}
+
+.grouptext{
+ margin-left: 160px;
+}
+
+.stemgroups{
+ padding-top: 20px;
+}
+.stembutton{
+ background-color: #0057AF;
+ font size: 10px;
+ color: white;
+ padding: 4px 25px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ margin-right: 10px;;
+ cursor: pointer;
+ float: right;
+}
+
+.stempadding{
+ padding-bottom: 50px;
+}
+
+.container-fluid{
+ padding-right: 120px;
+}
